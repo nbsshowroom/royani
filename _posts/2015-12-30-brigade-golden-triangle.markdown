@@ -1,8 +1,8 @@
 ---
 layout: banner_fullview
 title:  BRIGADE GOLDEN TRIANGLE
-date:   2015-11-28 12:33:30 +0530
-banner_image: /assets/banner/brigade_1_banner.jpg
+date:   2015-12-30 18:00:00 +0530
+banner_image: /assets/projects/brigade_golden_triangle/bgt_cover.tiff
 categories: banner_ads
 ---
 
