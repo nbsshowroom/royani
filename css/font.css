@@ -1,39 +1,39 @@
 @font-face {
     font-family: caladea_bold;
-    src: url(/assets/font/caladea-bold.ttf);
+    src: url({{ site.baseurl }}/assets/font/caladea-bold.ttf);
 }
 
 @font-face {
     font-family: caladea_bold_italic;
-    src: url(/assets/font/caladea-bolditalic.ttf);
+    src: url({{ site.baseurl }}/assets/font/caladea-bolditalic.ttf);
 }
 
 @font-face {
     font-family: caladea_italic;
-    src: url(/assets/font/caladea-italic.ttf);
+    src: url({{ site.baseurl }}/assets/font/caladea-italic.ttf);
 }
 
 @font-face {
     font-family: caladea_regular;
-    src: url(/assets/font/caladea-regular.ttf);
+    src: url({{ site.baseurl }}/assets/font/caladea-regular.ttf);
 }
 
 @font-face {
     font-family: monitorica_bold;
-    src: url(/assets/font/Monitorica-Bd.ttf);
+    src: url({{ site.baseurl }}/assets/font/Monitorica-Bd.ttf);
 }
 
 @font-face {
     font-family: monitorica_bold_italic;
-    src: url(/assets/font/Monitorica-Bdlt.ttf);
+    src: url({{ site.baseurl }}/assets/font/Monitorica-Bdlt.ttf);
 }
 
 @font-face {
     font-family: monitorica_italic;
-    src: url(/assets/font/Monitorica-lt.ttf);
+    src: url({{ site.baseurl }}/assets/font/Monitorica-lt.ttf);
 }
 
 @font-face {
     font-family: monitorica_regular;
-    src: url(/assets/font/Monitorica-Rg.ttf);
+    src: url({{ site.baseurl }}/assets/font/Monitorica-Rg.ttf);
 }
