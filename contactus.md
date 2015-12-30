@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Contact Us
 permalink: /contactus/
 ---
 __Office Address:__
