@@ -3,7 +3,7 @@
 		Latest Projects
 	</div>
 	{% for post in site.posts %}
-		<a href= {{ post.url }}>
+		<a href= "{{ site.baseurl }}{{ post.url }}">
 	    	<div class="BannerElementContainer">
 				<div class="BannerImageContainer">
 					<img src="{{ site.baseurl }}{{ post.banner_image }}" class="BannerImage">
