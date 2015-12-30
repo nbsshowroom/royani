@@ -20,7 +20,7 @@ We have a dexterous team that consists of the most qualified and experienced sal
 
 ### Our Expertise
 
-We offer wide range of consulting services
+We offer a wide range of consulting services in following areas:
 
 * Entry Strategy
 * Space Finding Exercise
