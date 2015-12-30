@@ -2,7 +2,7 @@
 layout: banner_fullview
 title:  Embassy Grove
 date:   2015-12-30 18:02:00 +0530
-banner_image: /assets/projects/egrove_cover/egrove_cover.tiff
+banner_image: /assets/projects/embassy_grove/egrove_cover.tiff
 categories: banner_ads
 ---
 
