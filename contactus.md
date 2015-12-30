@@ -6,19 +6,19 @@ permalink: /contactus/
 __Office Address:__
 
 Royani Property Consultant,   
-Office #140, 1st Floor,   
+#140, 1st Floor,   
 6th C Main Road,
 4th Block Jayanagar,   
 Bengaluru, Karnataka.   
-PIN Code: 560 011
+PIN Code: 560 041
 
-__Telephone:__   
+__People:__   
 
-+91 80 4892 8990   
-+91 80 4892 8991
+Mr. Rajesh Reddy: +91 97390 90902  
+Mr. Prakash Singh: +91 97399 32078
 
-__Fax:__   
-+91 80 48892 8992
+__Office:__   
++91 80 4149 0234
 
 __Locate us on google maps here:__
 
