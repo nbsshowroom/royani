@@ -5,9 +5,13 @@ permalink: /socialmedia/
 ---
 For latest news and business updates, please follow us on...      
 
-<img src="{{site.baseurl }}/assets/favicon/facebook_favicon.png" style="width:40px;height:40px;">: RoyaniProperties@Facebook
+<a href= "https://www.facebook.com/royaniproperty">
+<img src="{{site.baseurl }}/assets/favicon/facebook_favicon.png" style="width:40px;height:40px;">: Royani Property
+</a>
 <br>
 <br>
-<img src="{{site.baseurl }}/assets/favicon/twitter_favicon.png" style="width:40px;height:40px;">: @RoyaniProperties
+<a href= "https://twitter.com/royaniproperty">
+<img src="{{site.baseurl }}/assets/favicon/twitter_favicon.png" style="width:40px;height:40px;">: @royaniproperty
+</a>
 
 
