@@ -4,14 +4,30 @@ title: About
 permalink: /about/
 ---
 
-__Welcome to Royani Properties Pvt Ltd__
+__Royani Property__
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Royani Property is a well reckoned Real Estate Consultant / Property Dealer. Catering to the needs of the clients, we provide them with the most suitable properties in the prime locations of Bangalore. We have a successful track record in assuring the best residential as well as commercial properties for our valuable clients. We excel in providing the most dependable services like Buying Property Services, Selling Property Services and Rental Services. This has helped us in marking our presence amongst the prominent Real Estate Consultants in Bangalore.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Based in Bangalore, ASSETS Property Solutions is one of the well reputed real estate consultancies. We are counted amongst the most experienced and skilled agencies, capable of providing the best deals in commercial and residential properties. Understanding the requirements of our valuable clients, we have succeeded in catering to their needs with our vast expertise. Owing to our dedicated efforts, we have raced ahead of the competition in a short span of time.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Our Resource
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+We have contacts with the most experienced and well reckoned builders who help us in providing the most reliable construction services to our clients. We have the most updated data regarding the availability of different properties in Bangalore. Our vast and rich databank helps us in catering to the needs of the clients by providing them properties as per their requirements.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Our Team
+
+We have a dexterous team that consists of the most qualified and experienced sales and marketing professionals in the field of real estate market. 
+
+Our Expertise
+
+We offer wide range of consulting services
+
+Entry Strategy
+Space Finding Exercise
+Outright Sales
+Joint Development / Joint Venture
+Sourcing Properties
+Marketing, Leasing and Sales
+Distressed Asset Sales
+Real Estate Oppurtunity - Growth / Income / Hybrid
+Marketing Campaign
