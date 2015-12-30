@@ -1,0 +1,17 @@
+<div class="BannerContainer">
+	<div class="BannerTitle">
+		Latest Projects
+	</div>
+	{% for post in site.posts %}
+		<a href= {{ post.url }}>
+	    	<div class="BannerElementContainer">
+				<div class="BannerImageContainer">
+					<img src="{{ post.banner_image }}" class="BannerImage">
+				</div>
+				<div class="BannerTitleContainer">
+					{{ post.title }}
+				</div>
+			</div>
+		</a>
+	{% endfor %}
+</div>

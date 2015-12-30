@@ -1,0 +1,16 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+{% for post in site.posts %}
+    <div class="ProjectElementContainer">
+		<div class="ProjectTitle">
+			{{ post.title }}
+		</div>
+		<br>
+		<div class="ProjectDescription">
+			{{ post.content }}
+		</div>
+	</div>
+{% endfor %}

@@ -1,0 +1,36 @@
+.PageContainer{
+	background-color: white;
+	width: 600px;
+    height: 1290px; /* 1310 minus padding of 20px on either side*/
+    margin: 0px;
+    padding: 10px;
+    float: left;
+    display: block;
+    overflow: auto;
+}
+
+h3{
+	font-family: monitorica_regular;
+	color: #7C4A3B;
+}
+
+p{
+	font-family: monitorica_regular;
+	color: #7C4A3B;
+}
+
+.ProjectTitle{
+	font-family: monitorica_bold;
+	padding-left: 10px;
+	color: #FFFFFF;
+	background-color:  #7C4A3B;
+	border: 4px solid white;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.ProjectElementContainer{
+	font-family: monitorica_bold;
+	color: #7C4A3B;
+	border: 4px solid white;
+}

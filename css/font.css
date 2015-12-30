@@ -1,0 +1,39 @@
+@font-face {
+    font-family: caladea_bold;
+    src: url(/assets/font/caladea-bold.ttf);
+}
+
+@font-face {
+    font-family: caladea_bold_italic;
+    src: url(/assets/font/caladea-bolditalic.ttf);
+}
+
+@font-face {
+    font-family: caladea_italic;
+    src: url(/assets/font/caladea-italic.ttf);
+}
+
+@font-face {
+    font-family: caladea_regular;
+    src: url(/assets/font/caladea-regular.ttf);
+}
+
+@font-face {
+    font-family: monitorica_bold;
+    src: url(/assets/font/Monitorica-Bd.ttf);
+}
+
+@font-face {
+    font-family: monitorica_bold_italic;
+    src: url(/assets/font/Monitorica-Bdlt.ttf);
+}
+
+@font-face {
+    font-family: monitorica_italic;
+    src: url(/assets/font/Monitorica-lt.ttf);
+}
+
+@font-face {
+    font-family: monitorica_regular;
+    src: url(/assets/font/Monitorica-Rg.ttf);
+}

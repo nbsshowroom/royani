@@ -1,0 +1,48 @@
+.NavigationContainer{
+	background-color: white;
+	margin: 0px;
+	width: 200px; /* 200 minus padding of 20px on either side*/
+    height: 1290px; /* 1310 minus padding of 20px on either side*/
+    padding: 10px;
+    float: left;
+    display: block;
+}
+
+.NavigationElement{
+	background-color: white;
+	font-family: monitorica_regular;
+	text-align: right;
+	margin: 0px;
+	width: 180px;
+    height: 20px;
+    padding: 5px;
+    float: left;
+    display: block;
+    float: right;
+    color: #7C4A3B;
+}
+
+a {
+    color: #7C4A3B;
+    text-decoration: none;
+}
+a:link {
+    color: #7C4A3B;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #7C4A3B;
+}
+
+/* mouse over link */
+a:hover {
+    color: #7C4A3B;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: #7C4A3B;
+}
