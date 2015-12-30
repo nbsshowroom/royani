@@ -12,7 +12,7 @@ Spread across 18-acres, Brigade Golden Triangle is the only mixed-use developmen
 Strategically located in one of Bangalore's fastest developing growth corridors, Brigade Golden Triangle comes with the double advantage of excellent connectivity and the promise of greater returns in the future. This new-age life, new-age lifestyle project is from Brigade Group is a joint development with Krishil Capital Holdings Pvt. Ltd.
 
 
-<img src="{{ site.baseurl }} /assets/projects/brigade_golden_triangle/bgt_cover.tiff" class="PageImage" width="600px" height="300px">
+<img src="{{ site.baseurl }}/assets/projects/brigade_golden_triangle/bgt_cover.tiff" class="PageImage" width="600px" height="300px">
 
 --- GOLDEN TRIANGLE SUMMARY
 
