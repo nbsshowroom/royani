@@ -20,7 +20,6 @@ Walk into a new way of life, at Brigade LakeFront. These luxury apartments are l
 across ground + 14 levels
 * 124 sqm - 312 sqm
 
-
 #### Budget range:
 
 * Rs 82 lakhs onwards (Inclusive of Carpark and Exclusive of Statutory expenses)
