@@ -5,11 +5,12 @@ permalink: /contactus/
 ---
 __Office Address:__
 
-The Corenthum Chambers,   
-Office #100, 2nd Floor,   
-West Wing, M G Road,   
+Royani Property Consultant,   
+Office #140, 1st Floor,   
+6th C Main Road,
+4th Block Jayanagar,   
 Bengaluru, Karnataka.   
-PIN Code: 560078
+PIN Code: 560 011
 
 __Telephone:__   
 
