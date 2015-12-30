@@ -6,7 +6,7 @@ banner_image: /assets/banner/brigade_1_banner.jpg
 categories: banner_ads
 ---
 
-## Invest in a truly rewarding lifestyle
+### Invest in a truly rewarding lifestyle
 
 Spread across 18-acres, Brigade Golden Triangle is the only mixed-use development on Old Madras Road. It comprises over 670 spacious and well-planned apartments, spread across 6 blocks; premium office spaces; a retail complex and everything essential to accommodate an enriching way of life.
 Strategically located in one of Bangalore's fastest developing growth corridors, Brigade Golden Triangle comes with the double advantage of excellent connectivity and the promise of greater returns in the future. This new-age life, new-age lifestyle project is from Brigade Group is a joint development with Krishil Capital Holdings Pvt. Ltd.
