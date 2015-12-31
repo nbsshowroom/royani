@@ -14,7 +14,7 @@ layout: default
 
 <script type="text/javascript">
 
-$(function () {
+function initHighlights() {
     var body = document.getElementById("latesthights").style;
     var backgrounds = [
             {% for project in site.data.latest_projects %}
@@ -29,5 +29,5 @@ $(function () {
     }
     setTimeout(nextBackground, 5000);
     body.css('background', backgrounds[0]);
-});
+}
 </script>
