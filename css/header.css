@@ -30,6 +30,7 @@
     margin: 0px;
     display: inline-block;
     vertical-align: top;
+    position: relative;
 }
 
 .logob-content{
