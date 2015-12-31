@@ -13,6 +13,7 @@
 	min-width: 200px;
     height: 120px;
     margin: 0px;
+    display: inline-block;
 }
 .contb{
 	background-color: white;
@@ -23,12 +24,14 @@
     font-size: 50px;
     color: #7C4A3B;
     text-align: center;
+    display: inline-block;
 }
 .logob{
 	background-color: white;
 	width: 200px;
     height: 120px;
     margin: 0px;
+    display: inline-block;
 }
 .tagb{
 	background-color: white;
@@ -39,4 +42,5 @@
     font-size: 50px;
     color: #7C4A3B;
     text-align: center;
+    display: inline-block;
 }
