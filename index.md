@@ -20,7 +20,7 @@ function initHighlights() {
 
     var backgrounds = [
             {% for project in site.data.latest_projects %}
-            '{{ site.baseurl }}{{ project.cover_img_url }}',
+            "{{ site.baseurl }}{{ project.cover_img_url }}",
         {% endfor %}
 	];
 
