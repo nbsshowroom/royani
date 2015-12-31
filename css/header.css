@@ -31,6 +31,13 @@
     display: inline-block;
     vertical-align: top;
 }
+
+.logob-content{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
 .tagb{
 	background-color: white;
 	min-width: 300px;
