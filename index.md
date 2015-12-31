@@ -27,7 +27,7 @@ function initHighlights() {
     var current = 0;
     function nextBackground() {
         var elem = document.createElement("img");
-        elem.setAttribute("src", 'backgrounds[current = ++current % backgrounds.length]');
+        elem.setAttribute("src", backgrounds[current = ++current % backgrounds.length]);
         highlightImage.appendChild(elem);
         setTimeout(nextBackground, 5000);
     }
