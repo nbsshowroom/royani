@@ -12,37 +12,14 @@ Spread across 18-acres, Brigade Golden Triangle is the only mixed-use developmen
 Strategically located in one of Bangalore's fastest developing growth corridors, Brigade Golden Triangle comes with the double advantage of excellent connectivity and the promise of greater returns in the future. This new-age life, new-age lifestyle project is from Brigade Group is a joint development with Krishil Capital Holdings Pvt. Ltd.
 
 
-<img src="{{ site.baseurl }}/assets/projects/brigade_golden_triangle/bgt_cover.tiff" class="PageImage" width="600px" height="300px">
+<img src="{{ site.baseurl }}/assets/projects/embassy_pristine/ep_cover.tiff" class="PageImage" width="600px" height="300px">
 
-### GOLDEN TRIANGLE SUMMARY
-
-#### Type of apartments:
-
-* Over 670 apartments, spread across 6 blocks
-* 2-, 3- & 4-bedroom options
-* 111 sqm - 187 sqm
-
-#### Budget range:
-
-* Rs 60 Lakhs onwards (Inclusive of Carpark and Exclusive of Statutory expenses)
-
-#### Signature Tower:
-
-* Over 55,741 sqm of premium office space
-* Proposed Retail Complex
-
-#### Features and facilities
-
-* 1,672 sqm clubhouse with gym and swimming pool
-* Outdoor sports facilities
-* Landscaped court and large green spaces
-
-#### Location:
-
-* On Old Madras Road, one of Bangalore's fastest developing growth corridors
-
-#### Availability:
-
-Status: Under construction
+* Water-front living, with open spaces on 3 sides
+* Easy accessibility to CBD, IT Parks, Airport and lifestyle amenities via signal free corridor
+* Spacious apartments with characteristics of an individual home
+* Premium specifications and amenities
+* A 60,000 sqft professionally managed club - the biggest in Bangalore
+* IGBC LEED GOLD pre-certified Green Homes
+* Sound investment
 
 #### <a href="{{ site.baseurl }}/contactus"> Contact us to enquire about this project. </a>
