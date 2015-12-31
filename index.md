@@ -15,19 +15,16 @@ layout: default
 <script type="text/javascript">
 
 $(function () {
-    var body = document.getElementById("latesthights");
+    var body = document.getElementById("latesthights").style;
     var backgrounds = [
             {% for project in site.data.latest_projects %}
             'url({{ site.baseurl }}{{ project.cover_img_url }})',
         {% endfor %}
 	];
+
     var current = 0;
-
     function nextBackground() {
-        body.css(
-            'background',
-        backgrounds[current = ++current % backgrounds.length]);
-
+        body.backgroundImage = "backgrounds[current = ++current % backgrounds.length]";
         setTimeout(nextBackground, 5000);
     }
     setTimeout(nextBackground, 5000);
