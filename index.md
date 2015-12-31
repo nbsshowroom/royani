@@ -9,7 +9,7 @@ layout: default
 </div>
 <div class="idxpage-highlight-container">
 	<div class="idxpage-highlight-content" id="latesthights">
-        <img id="hightLightImage">
+        <img id="hightLightImage" class="withfadeout">
 	</div>
 </div>
 
@@ -29,7 +29,6 @@ function initHighlights() {
     function nextBackground() {
         hightLightImage.setAttribute("src", backgrounds[current = ++current % backgrounds.length]);
         setTimeout(nextBackground, 5000);
-        hightLightImage.className += " " + "withfadeout";
     }
     setTimeout(nextBackground, 5000);
 }
