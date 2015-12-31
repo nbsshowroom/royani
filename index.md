@@ -26,10 +26,11 @@ function initHighlights() {
 
     var current = 0;
     function nextBackground() {
-        highlightImage.innerHTML = <img src=backgrounds[current = ++current % backgrounds.length]>;
+        var elem = document.createElement("img");
+        elem.setAttribute("src", 'backgrounds[current = ++current % backgrounds.length]');
+        highlightImage.appendChild(elem);
         setTimeout(nextBackground, 5000);
     }
     setTimeout(nextBackground, 5000);
-    highlightImage.innerHTML = <img src=backgrounds[0]>;
 }
 </script>
