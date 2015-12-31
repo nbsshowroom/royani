@@ -1,8 +1,9 @@
 .idxpage-title-container{
 	background-color: white;
-	width: 800px;
-    height: 40px;
+	width: 400px;
+    height: 400px;
     margin: 0px;
+    float: left;
 }
 
 .idxpage-highlight-container{
@@ -10,12 +11,13 @@
 	width: 800px;
     height: 400px;
     margin: 0px;
+    float: left;
 }
 
 .idxpage-title-content{
 	background-color: white;
-	width: 800px;
-    height: 40px;
+	width: 400px;
+    height: 400px;
     margin: 0px;
 }
 
