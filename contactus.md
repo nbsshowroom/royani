@@ -12,6 +12,9 @@ Royani Property Consultant,
 Bengaluru, Karnataka.   
 PIN Code: 560 041
 
+__Email:__   
+enquiries@royaniproperty.com
+
 __People:__   
 
 Mr. Rajesh Reddy: +91 97390 90902  
