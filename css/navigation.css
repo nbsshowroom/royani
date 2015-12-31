@@ -19,30 +19,30 @@
     float: left;
     display: block;
     float: right;
-    color: #7C4A3B;
+    color: #223A62;
 }
 
 a {
-    color: #7C4A3B;
+    color: #223A62;
     text-decoration: none;
 }
 a:link {
-    color: #7C4A3B;
+    color: #223A62;
     text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: #7C4A3B;
+    color: #223A62;
 }
 
 /* mouse over link */
 a:hover {
-    color: #7C4A3B;
+    color: #223A62;
     text-decoration: underline;
 }
 
 /* selected link */
 a:active {
-    color: #7C4A3B;
+    color: #223A62;
 }
