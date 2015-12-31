@@ -18,7 +18,7 @@ $(function () {
     var body = document.getElementById("latesthights");
     var backgrounds = [
             {% for project in site.data.latest_projects %}
-            'url('{{ site.baseurl }}{{ project.cover_img_url }}')',
+            'url({{ site.baseurl }}{{ project.cover_img_url }})',
         {% endfor %}
 	];
     var current = 0;
