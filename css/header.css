@@ -10,13 +10,13 @@
 }
 .lnb{
 	background-color: white;
-	width: 200px;
+	min-width: 200px;
     height: 120px;
     margin: 0px;
 }
 .contb{
 	background-color: white;
-	width: 400px;
+	min-width: 400px;
     height: 120px;
     margin: 0px;
     font-family: monitorica_regular;
@@ -32,7 +32,7 @@
 }
 .tagb{
 	background-color: white;
-	width: 400px;
+	min-width: 400px;
     height: 120px;
     margin: 0px;
     font-family: monitorica_regular;
