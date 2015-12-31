@@ -19,7 +19,7 @@
 }
 
 .NavigationElement{
-	background-color: white;
+	background-color: 223A62;
 	font-family: monitorica_regular;
 	text-align: right;
 	margin: 0px;
@@ -32,26 +32,26 @@
 }
 
 a {
-    color: #223A62;
+    color: white;
     text-decoration: none;
 }
 a:link {
-    color: #223A62;
+    color: white;
     text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: #223A62;
+    color: white;
 }
 
 /* mouse over link */
 a:hover {
-    color: #223A62;
+    color: #5A9FE1;
     text-decoration: underline;
 }
 
 /* selected link */
 a:active {
-    color: #223A62;
+    color: #5A9FE1;
 }
