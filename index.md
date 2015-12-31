@@ -2,14 +2,38 @@
 layout: default
 ---
 
-__Welcome to Royani Properties Pvt Ltd__
+<div class="idxpage-title-container">
+	<div class="idxpage-title-content">
+	</div>
+</div>
+<div class="idxpage-highlight-container">
+	<div class="idxpage-highlight-content" id="latesthights">
+	</div>
+</div>
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+<script type="text/javascript">
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+$(function () {
+    var body = document.getElementById("latesthights");
+    var backgrounds = [
+            {% for project in site.data.latest_projects %}
+        	<div class="NavigationElement">
+                <a href="{{site.baseurl }}{{ nav_element.menu_target_url }}" class="NavigationLink"> {{ nav_element.menu_display_name}} </a>
+            </div>
+            'url('{{ site.baseurl }}{{ project.cover_img_url }}')',
+        {% endfor %}
+	];
+    var current = 0;
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+    function nextBackground() {
+        body.css(
+            'background',
+        backgrounds[current = ++current % backgrounds.length]);
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+        setTimeout(nextBackground, 5000);
+    }
+    setTimeout(nextBackground, 5000);
+    body.css('background', backgrounds[0]);
+});
+</script>

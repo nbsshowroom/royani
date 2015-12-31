@@ -1,0 +1,5 @@
+order_number,project_name,cover_img_url,target_url
+1,brigade_golden_triangle,/assets/projects/brigade_golden_triangle/bgt_cover.tiff,/2015-12-30-brigade-golden-triangle
+2,brigade_lake_front,/assets/projects/brigade_lake_front/blf_cover.tiff,/2015-12-30-brigade-lake-front
+3,brigade_omega,/assets/projects/brigade_omega/bo_cover.tiff,/2015-12-30-brigade-omega
+4,embassy_lake_terrace,/assets/projects/embassy_lake_terrace/elterrace_cover.tiff,/2015-12-30-embassy-lake-terraces
