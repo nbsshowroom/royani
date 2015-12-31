@@ -48,7 +48,7 @@ a:visited {
 /* mouse over link */
 a:hover {
     color: #5A9FE1;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 /* selected link */
