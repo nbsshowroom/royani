@@ -29,6 +29,7 @@ function initHighlights() {
     function nextBackground() {
         hightLightImage.setAttribute("src", backgrounds[current = ++current % backgrounds.length]);
         setTimeout(nextBackground, 5000);
+        hightLightImage.className += " " + "withfadeout";
     }
     setTimeout(nextBackground, 5000);
 }
