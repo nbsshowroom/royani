@@ -1,7 +1,7 @@
 .PageContainer{
 	background-color: white;
 	width: 1280px;
-    height: 1290px; /* 1310 minus padding of 20px on either side*/
+    height: 100%; /* 1310 minus padding of 20px on either side*/
     margin: 0px;
     padding: 10px;
     float: left;
