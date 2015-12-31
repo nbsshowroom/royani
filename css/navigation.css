@@ -19,7 +19,7 @@
 }
 
 .NavigationElement{
-	background-color: 223A62;
+	background-color: #223A62;
 	font-family: monitorica_regular;
 	text-align: right;
 	margin: 0px;
@@ -28,7 +28,7 @@
     padding: 5px;
     float: left;
     display: block;
-    color: #223A62;
+    color: white;
 }
 
 a {
