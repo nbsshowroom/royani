@@ -24,10 +24,10 @@ function initHighlights() {
 
     var current = 0;
     function nextBackground() {
-        body.backgroundImage = "backgrounds[current = ++current % backgrounds.length]";
+        body.backgroundImage = backgrounds[current = ++current % backgrounds.length];
         setTimeout(nextBackground, 5000);
     }
     setTimeout(nextBackground, 5000);
-    body.css('background', backgrounds[0]);
+    body.backgroundImage = backgrounds[0];
 }
 </script>
