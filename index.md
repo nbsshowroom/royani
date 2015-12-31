@@ -18,9 +18,6 @@ $(function () {
     var body = document.getElementById("latesthights");
     var backgrounds = [
             {% for project in site.data.latest_projects %}
-        	<div class="NavigationElement">
-                <a href="{{site.baseurl }}{{ nav_element.menu_target_url }}" class="NavigationLink"> {{ nav_element.menu_display_name}} </a>
-            </div>
             'url('{{ site.baseurl }}{{ project.cover_img_url }}')',
         {% endfor %}
 	];
