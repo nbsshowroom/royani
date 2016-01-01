@@ -4,7 +4,15 @@ layout: default
 
 <div class="idxpage-title-container">
 	<div class="idxpage-title-content" id="highlightTitle">
-        ### Latest Projects
+        <section>
+
+            Check out 
+
+               our latest projects
+
+                And now paragraph two.
+
+            </section>
 	</div>
 </div>
 <div class="idxpage-highlight-container">

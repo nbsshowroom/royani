@@ -6,7 +6,22 @@
     padding: 10px;
     float: left;
     display: block;
-    overflow: auto;
+}
+
+.lnb-page{
+	background-color: white;
+	min-width: 220px;
+    height: 100%;
+    margin: 0px;
+    display: inline-block;
+}
+
+.rnb-page{
+	background-color: white;
+	min-width: 220px;
+    height: 100%;
+    margin: 0px;
+    display: inline-block;
 }
 
 h3{
