@@ -1,6 +1,6 @@
 .PageContainer{
 	background-color: white;
-	width: 840px;
+	width: 800px;
     height: 100%; /* 1310 minus padding of 20px on either side*/
     margin: 0px;
     padding: 10px;
@@ -10,7 +10,7 @@
 
 .lnb-page{
 	background-color: white;
-	min-width: 220px;
+	min-width: 200px;
     min-height: 100%;
     margin: 0px;
     float: left;
@@ -19,7 +19,7 @@
 
 .rnb-page{
 	background-color: white;
-	min-width: 220px;
+	min-width: 200px;
     min-height: 100%;
     margin: 0px;
     float: left;
