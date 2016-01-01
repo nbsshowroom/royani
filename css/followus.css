@@ -11,13 +11,14 @@
 
 .FollowUsElementWrapper{
     background-color: white;
-    font-family: monitorica_regular;
+    font-family: monitorica_bold;
     text-align: left;
     margin-left:auto;
     margin-right:auto;
     color: #223A62;
     width: 600px;
     height: 40px;
+    padding: 10px;
     float: left;
     display: block;
 }
