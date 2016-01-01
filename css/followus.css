@@ -18,3 +18,14 @@
     float: left;
     display: block;
 }
+
+.FollowUsElementWrapperRight{
+    background-color: white;
+    font-family: monitorica_bold;
+    color: #223A62;
+    width: 800px;
+    height: 50px;
+    margin: 0px;
+    float: right;
+    display: block;
+}
