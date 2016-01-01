@@ -31,27 +31,27 @@
     color: white;
 }
 
-a {
+.NavigationLink{
     color: white;
     text-decoration: none;
 }
-a:link {
+.NavigationLink:link {
     color: white;
     text-decoration: none;
 }
 
 /* visited link */
-a:visited {
+.NavigationLink:visited {
     color: white;
 }
 
 /* mouse over link */
-a:hover {
+.NavigationLink:hover {
     color: #5A9FE1;
     text-decoration: none;
 }
 
 /* selected link */
-a:active {
+.NavigationLink:active {
     color: #5A9FE1;
 }
