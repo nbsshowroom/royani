@@ -1,26 +1,28 @@
 .PageContainer{
 	background-color: white;
-	width: 1280px;
+	width: 840px;
     height: 100%; /* 1310 minus padding of 20px on either side*/
     margin: 0px;
     padding: 10px;
     float: left;
-    display: block;
+    display: inline-block;
 }
 
 .lnb-page{
 	background-color: white;
 	min-width: 220px;
-    height: 100%;
+    min-height: 100%;
     margin: 0px;
+    float: left;
     display: inline-block;
 }
 
 .rnb-page{
 	background-color: white;
 	min-width: 220px;
-    height: 100%;
+    min-height: 100%;
     margin: 0px;
+    float: left;
     display: inline-block;
 }
 
