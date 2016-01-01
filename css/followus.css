@@ -14,6 +14,7 @@
     color: #223A62;
     width: 800px;
     height: 50px;
-    float: right;
+    margin: 0px;
+    float: left;
     display: block;
 }
