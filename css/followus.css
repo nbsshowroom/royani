@@ -1,0 +1,22 @@
+
+.FollowUsContainer{
+    background-color: white;
+    width: 1280px; /* 200 minus padding of 20px on either side*/
+    height: 40px; /* 1310 minus padding of 20px on either side*/
+    padding-left: 200px;
+    float: left;
+    display: block;
+    margin: 0px;
+}
+
+.FollowUsElementWrapper{
+    background-color: white;
+    text-align: right;
+    margin-left:auto;
+    margin-right:auto;
+    color: #223A62;
+    width: 600px;
+    height: 40px;
+    float: left;
+    display: block;
+}
