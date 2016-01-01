@@ -1,7 +1,9 @@
 <div class="NavigationContainer" id="Navgation">
+	<div class="NavigationElementWrapper">
         {% for nav_element in site.data.nav_menu %}
         	<div class="NavigationElement">
                 <a href="{{site.baseurl }}{{ nav_element.menu_target_url }}" class="NavigationLink"> {{ nav_element.menu_display_name}} </a>
             </div>
         {% endfor %}
+    </div>
 </div>

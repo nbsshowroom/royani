@@ -12,10 +12,23 @@
     background-color: white;
     width: 1280px; /* 200 minus padding of 20px on either side*/
     height: 30px; /* 1310 minus padding of 20px on either side*/
-    padding: 10px;
+    padding: 0px;
     float: left;
     display: block;
     margin: 0px;
+}
+
+.NavigationElementWrapper{
+    background-color: #223A62;
+    text-align: right;
+    margin-left:auto;
+    margin-right:auto;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    float: left;
+    display: block;
+    color: white;
 }
 
 .NavigationElement{
