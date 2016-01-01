@@ -10,19 +10,20 @@
 
 .NavigationContainer{
     background-color: white;
-    margin: 0px;
     width: 1280px; /* 200 minus padding of 20px on either side*/
     height: 30px; /* 1310 minus padding of 20px on either side*/
     padding: 10px;
     float: left;
     display: block;
+    margin: 0px;
 }
 
 .NavigationElement{
 	background-color: #223A62;
 	font-family: monitorica_regular;
 	text-align: right;
-	margin: 0px;
+    margin-left:auto;
+    margin-right:auto;
 	width: 180px;
     height: 20px;
     padding: 5px;
