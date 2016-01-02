@@ -12,7 +12,7 @@
     background-color: white;
     font-family: monitorica_bold;
     color: #223A62;
-    width: 800px;
+    width: 1000px;
     height: 50px;
     margin: 0px;
     float: left;
@@ -26,6 +26,7 @@
     width: 240px;
     height: 50px;
     margin: 0px;
+    text-align: right;
     float: right;
     display: block;
 }
