@@ -70,8 +70,8 @@ p{
 .ProjectTitle{
 	font-family: monitorica_bold;
 	padding-left: 10px;
-	color: #223A62;
-	background-color:  white;
+	color: white;
+	background-color:  #223A62;
 	border: 2px solid #223A62;
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
@@ -80,8 +80,8 @@ p{
 }
 
 .ProjectElementContainer{
-	background-color: white;
+	background-color: #223A62;
 	font-family: monitorica_bold;
-	color: #223A62;
+	color: white;
 	border: 2px solid #223A62;
 }
