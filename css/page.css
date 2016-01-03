@@ -27,48 +27,48 @@
 }
 
 h3{
-	font-family: monitorica_regular;
+	font-family: verdana_regular;
 	color: #223A62;
 	font-weight: bold;
 }
 
 h1{
-	font-family: monitorica_regular;
+	font-family: verdana_regular;
 	color: #223A62;
 	font-weight: bold;
 }
 
 h2{
-	font-family: monitorica_regular;
+	font-family: verdana_regular;
 	color: #223A62;
 	font-weight: bold;
 }
 
 h4{
-	font-family: monitorica_regular;
+	font-family: verdana_regular;
 	color: #223A62;
 	font-weight: bold;
 }
 
 h5{
-	font-family: monitorica_regular;
+	font-family: verdana_regular;
 	color: #223A62;
 	font-weight: bold;
 }
 
 li{
-	font-family: monitorica_regular;
+	font-family: verdana_regular;
 	color: #223A62;
 }
 
 
 p{
-	font-family: monitorica_regular;
+	font-family: verdana_regular;
 	color: #223A62;
 }
 
 .ProjectTitle{
-	font-family: monitorica_bold;
+	font-family: verdana_bold;
 	padding-left: 10px;
 	color: white;
 	background-color:  #223A62;
@@ -76,7 +76,7 @@ p{
 
 .ProjectElementContainer{
 	background-color: white;
-	font-family: monitorica_bold;
+	font-family: verdana_bold;
 	color: white;
 	border: 2px solid white;
 	border-top-right-radius: 15px;
