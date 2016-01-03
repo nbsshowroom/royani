@@ -33,27 +33,23 @@ h3{
 }
 
 h1{
-	font-family: verdana_regular;
+	font-family: verdana_bold;
 	color: #223A62;
-	font-weight: bold;
 }
 
 h2{
-	font-family: verdana_regular;
+	font-family: verdana_bold;
 	color: #223A62;
-	font-weight: bold;
 }
 
 h4{
-	font-family: verdana_regular;
+	font-family: verdana_bold;
 	color: #223A62;
-	font-weight: bold;
 }
 
 h5{
-	font-family: verdana_regular;
+	font-family: verdana_bold;
 	color: #223A62;
-	font-weight: bold;
 }
 
 li{
@@ -83,4 +79,8 @@ p{
     border-top-left-radius: 15px;
     border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;
+}
+
+p{
+	text-align: justify;
 }
