@@ -1,44 +1,5 @@
 ---
 ---
-@font-face {
-    font-family: caladea_bold;
-    src: url({{ site.baseurl }}/assets/font/caladea-bold.ttf);
-}
-
-@font-face {
-    font-family: caladea_bold_italic;
-    src: url({{ site.baseurl }}/assets/font/caladea-bolditalic.ttf);
-}
-
-@font-face {
-    font-family: caladea_italic;
-    src: url({{ site.baseurl }}/assets/font/caladea-italic.ttf);
-}
-
-@font-face {
-    font-family: caladea_regular;
-    src: url({{ site.baseurl }}/assets/font/caladea-regular.ttf);
-}
-
-@font-face {
-    font-family: monitorica_bold;
-    src: url({{ site.baseurl }}/assets/font/Monitorica-Bd.ttf);
-}
-
-@font-face {
-    font-family: monitorica_bold_italic;
-    src: url({{ site.baseurl }}/assets/font/Monitorica-Bdlt.ttf);
-}
-
-@font-face {
-    font-family: monitorica_italic;
-    src: url({{ site.baseurl }}/assets/font/Monitorica-lt.ttf);
-}
-
-@font-face {
-    font-family: monitorica_regular;
-    src: url({{ site.baseurl }}/assets/font/Monitorica-Rg.ttf);
-}
 
 @font-face {
     font-family: verdana_bold;
@@ -58,24 +19,4 @@
 @font-face {
     font-family: verdana_regular;
     src: url({{ site.baseurl }}/assets/font/Verdana.ttf);
-}
-
-@font-face {
-    font-family: trebuchet_ms_bold;
-    src: url({{ site.baseurl }}/assets/font/Trebuchet MS Bold.ttf);
-}
-
-@font-face {
-    font-family: trebuchet_ms_bold_italic;
-    src: url({{ site.baseurl }}/assets/font/Trebuchet MS Bold Italic.ttf);
-}
-
-@font-face {
-    font-family: trebuchet_ms_italic;
-    src: url({{ site.baseurl }}/assets/font/Trebuchet MS Italic.ttf);
-}
-
-@font-face {
-    font-family: trebuchet_ms_regular;
-    src: url({{ site.baseurl }}/assets/font/Trebuchet MS.ttf);
 }
