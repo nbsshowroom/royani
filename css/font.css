@@ -59,3 +59,23 @@
     font-family: verdana_regular;
     src: url({{ site.baseurl }}/assets/font/Verdana.ttf);
 }
+
+@font-face {
+    font-family: trebuchet_ms_bold;
+    src: url({{ site.baseurl }}/assets/font/Trebuchet MS Bold.ttf);
+}
+
+@font-face {
+    font-family: trebuchet_ms_bold_italic;
+    src: url({{ site.baseurl }}/assets/font/Trebuchet MS Bold Italic.ttf);
+}
+
+@font-face {
+    font-family: trebuchet_ms_italic;
+    src: url({{ site.baseurl }}/assets/font/Trebuchet MS Italic.ttf);
+}
+
+@font-face {
+    font-family: trebuchet_ms_regular;
+    src: url({{ site.baseurl }}/assets/font/Trebuchet MS);
+}
