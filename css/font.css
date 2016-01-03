@@ -77,5 +77,5 @@
 
 @font-face {
     font-family: trebuchet_ms_regular;
-    src: url({{ site.baseurl }}/assets/font/Trebuchet MS);
+    src: url({{ site.baseurl }}/assets/font/Trebuchet MS.ttf);
 }
